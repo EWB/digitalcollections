@@ -1,0 +1,19 @@
+/**
+ * @file
+ * CSS classes for Hover Preview for Imagecache module.
+ */
+
+#hover-preview {
+	background: #fff;
+	border: 1px solid #fff;
+	color: #000;
+	display: none;
+	padding: 5px;
+	position: absolute;
+	z-index: 1000;
+}
+
+#ruler {
+  visibility: hidden;
+	white-space: nowrap;
+}
